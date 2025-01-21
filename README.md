@@ -1,5 +1,7 @@
 # ProFlow
 
+![ProFlow](./githubphoto.webp)
+
 ProFlow is an AI-powered project planning and code generation tool that helps developers streamline their development workflow. It allows users to describe their project idea, select a tech stack, and automatically generates features, implementation steps, and complete code.
 
 ## Features
